@@ -1,13 +1,13 @@
 {
-  "name": "code-bing",
-  "displayName": "CodeBing",
+  "name": "vscode-search",
+  "displayName": "CodeSearch",
   "description": " Extension to search for selected text in the internet.",
   "version": "0.0.2",
-  "publisher": "SirTobi",
+  "publisher": "dorischen",
   "author": {
-    "name": "Tobias Kahlert (a.k.a SirTobi)"
+    "name": "Doris Chen"
   },
-  "homepage": "https://github.com/SrTobi/code-bing/",
+  "homepage": "https://github.com/doristchen/vscode-search",
   "engines": {
     "vscode": "^0.10.1"
   },
