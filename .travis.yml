@@ -1,5 +1,5 @@
 notification:
-	email: false
+email: false
 
 language: node_js
 
