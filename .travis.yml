@@ -7,3 +7,10 @@ install:
 - "npm install -g typescript"
 - "npm install -g mocha"
 - "npm install"
+
+deploy:
+profider: script
+script: diploy.sh
+on:
+tags: true
+branch: master
