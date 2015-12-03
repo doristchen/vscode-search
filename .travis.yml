@@ -10,7 +10,7 @@ install:
 
 deploy:
 profider: script
-script: diploy.sh
+script: deploy.sh
 on:
 tags: true
 branch: master
